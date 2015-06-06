@@ -85,9 +85,9 @@
     self.viewControllers = [NSArray arrayWithObjects:navi1,navi2,navi3,navi4, nil];
     
     [self creatButtonWithNormalName:@"tabbar_client.png" andSelectName:@"tabbar_client_selected.png" andTitle:@"联系人" andIndex:0];
-    [self creatButtonWithNormalName:@"tabbar_product" andSelectName:@"tabbar_product_selected" andTitle:@"产品" andIndex:1];
-    [self creatButtonWithNormalName:@"tabbar_info" andSelectName:@"tabbar_info_selected" andTitle:@"信息" andIndex:2];
-    [self creatButtonWithNormalName:@"tabbar_more" andSelectName:@"tabbar_more_selected" andTitle:@"设置" andIndex:3];
+    [self creatButtonWithNormalName:@"tabbar_product" andSelectName:@"tabbar_product_selected" andTitle:@"消息列表" andIndex:1];
+    [self creatButtonWithNormalName:@"tabbar_info" andSelectName:@"tabbar_info_selected" andTitle:@"发现" andIndex:2];
+    [self creatButtonWithNormalName:@"tabbar_more" andSelectName:@"tabbar_more_selected" andTitle:@"个人中心" andIndex:3];
     NTButton * button = _tabBarView.subviews[0];
     [self changeViewController:button];
     
