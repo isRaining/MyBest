@@ -1,0 +1,39 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_5_0
+#warning "This project uses features only available in iOS SDK 5.0 and later."
+#endif
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+#endif
+
+
+/**
+ *  屏幕尺寸
+ */
+#define kScreenWidth      CGRectGetWidth([UIScreen mainScreen].applicationFrame)
+#define kScreenHeight     CGRectGetHeight([UIScreen mainScreen].applicationFrame)
+
+/**
+ *  识别设备
+ */
+#define IS_IPHONE_5 (fabs((double)[[UIScreen mainScreen] bounds].size.height - (double )568) < DBL_EPSILON )
+#define IS_WIDESCREEN (fabs((double)[[UIScreen mainScreen] bounds].size.height - (double)568)<DBL_EPSILON )
+#define IS_IPHONE ([[[UIDevice currentDevice] model] isEqualToString: @"iPhone" ])
+#define IS_IPHONE_SIMULATOR ([[[UIDevice currentDevice]mode ] isEqualToString: @"iPhone Simulator"])
+#define IS_IPOD   ([[[UIDevice currentDevice] model] isEqualToString: @"iPod touch"])
+#define IS_IPad   ([[[UIDevice currentDevice] model] isEqualToString: @"iPad"])
+
+
+//#import "Masonry.h"
+//#import "JSONKit.h"
+//#import "Reachability.h"
+//#import "AFNetworking.h"

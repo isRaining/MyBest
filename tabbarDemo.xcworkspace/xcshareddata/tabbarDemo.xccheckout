@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E37E2F52-F5F5-406E-8D8B-EF792699BFBC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>tabbarDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>9CB89C8AC6A4E91F3E98057B6C27DECFB9269BA0</key>
+		<string>https://github.com/ManyPeopleDev/MyBest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>tabbarDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>9CB89C8AC6A4E91F3E98057B6C27DECFB9269BA0</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ManyPeopleDev/MyBest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>9CB89C8AC6A4E91F3E98057B6C27DECFB9269BA0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>9CB89C8AC6A4E91F3E98057B6C27DECFB9269BA0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyBest</string>
+		</dict>
+	</array>
+</dict>
+</plist>
