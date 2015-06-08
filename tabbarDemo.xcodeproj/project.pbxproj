@@ -7,6 +7,94 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04ABE3E71B253346003BF450 /* 个人资料-小剪头_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3831B253346003BF450 /* 个人资料-小剪头_03.png */; };
+		04ABE3E81B253346003BF450 /* 个人资料-编辑头像_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3841B253346003BF450 /* 个人资料-编辑头像_03.png */; };
+		04ABE3E91B253346003BF450 /* 会话2_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3861B253346003BF450 /* 会话2_03.png */; };
+		04ABE3EA1B253346003BF450 /* 动态2_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3871B253346003BF450 /* 动态2_03.png */; };
+		04ABE3EB1B253346003BF450 /* 动态_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3881B253346003BF450 /* 动态_03.png */; };
+		04ABE3EC1B253346003BF450 /* 我的_09.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3891B253346003BF450 /* 我的_09.png */; };
+		04ABE3ED1B253346003BF450 /* 我的用户详情_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE38A1B253346003BF450 /* 我的用户详情_03.png */; };
+		04ABE3EE1B253346003BF450 /* 我的训练2_09.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE38B1B253346003BF450 /* 我的训练2_09.png */; };
+		04ABE3EF1B253346003BF450 /* 我的训练_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE38C1B253346003BF450 /* 我的训练_03.png */; };
+		04ABE3F01B253346003BF450 /* 用户2_09.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE38D1B253346003BF450 /* 用户2_09.png */; };
+		04ABE3F11B253346003BF450 /* 发布动态_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE38F1B253346003BF450 /* 发布动态_03.png */; };
+		04ABE3F21B253346003BF450 /* 导航-更多_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3901B253346003BF450 /* 导航-更多_03.png */; };
+		04ABE3F31B253346003BF450 /* 导航-返回_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3911B253346003BF450 /* 导航-返回_03.png */; };
+		04ABE3F41B253346003BF450 /* 消息列表-添加-好友_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3921B253346003BF450 /* 消息列表-添加-好友_03.png */; };
+		04ABE3F51B253346003BF450 /* 消息列表_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3931B253346003BF450 /* 消息列表_03.png */; };
+		04ABE3F61B253346003BF450 /* 训练右上角添加课程_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3941B253346003BF450 /* 训练右上角添加课程_03.png */; };
+		04ABE3F71B253346003BF450 /* 设置_05.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3951B253346003BF450 /* 设置_05.png */; };
+		04ABE3F81B253346003BF450 /* 动态-完成训练对号_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3971B253346003BF450 /* 动态-完成训练对号_03.png */; };
+		04ABE3F91B253346003BF450 /* 动态用户小头像_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3981B253346003BF450 /* 动态用户小头像_03.png */; };
+		04ABE3FA1B253346003BF450 /* 动态留言_13.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3991B253346003BF450 /* 动态留言_13.png */; };
+		04ABE3FB1B253346003BF450 /* 动态详情_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE39A1B253346003BF450 /* 动态详情_06.png */; };
+		04ABE3FC1B253346003BF450 /* 动态赞_13.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE39B1B253346003BF450 /* 动态赞_13.png */; };
+		04ABE3FD1B253346003BF450 /* 动态转发_16.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE39C1B253346003BF450 /* 动态转发_16.png */; };
+		04ABE3FE1B253346003BF450 /* 发布留言按钮.9.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE39D1B253346003BF450 /* 发布留言按钮.9.png */; };
+		04ABE3FF1B253346003BF450 /* 已经留过言_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE39E1B253346003BF450 /* 已经留过言_07.png */; };
+		04ABE4001B253346003BF450 /* 消息列表-赞图标_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE39F1B253346003BF450 /* 消息列表-赞图标_06.png */; };
+		04ABE4011B253346003BF450 /* 留言铅笔_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A01B253346003BF450 /* 留言铅笔_07.png */; };
+		04ABE4021B253346003BF450 /* 赞-更多_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A11B253346003BF450 /* 赞-更多_03.png */; };
+		04ABE4031B253346003BF450 /* 赞用户-头像_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A21B253346003BF450 /* 赞用户-头像_03.png */; };
+		04ABE4041B253346003BF450 /* 对方消息_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A41B253346003BF450 /* 对方消息_03.png */; };
+		04ABE4051B253346003BF450 /* 我的消息框_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A51B253346003BF450 /* 我的消息框_07.png */; };
+		04ABE4061B253346003BF450 /* 拍摄_05.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A61B253346003BF450 /* 拍摄_05.png */; };
+		04ABE4071B253346003BF450 /* 添加_12.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A71B253346003BF450 /* 添加_12.png */; };
+		04ABE4081B253346003BF450 /* 添加照片_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A81B253346003BF450 /* 添加照片_03.png */; };
+		04ABE4091B253346003BF450 /* 点击添加表情.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3A91B253346003BF450 /* 点击添加表情.png */; };
+		04ABE40A1B253346003BF450 /* 不转发微信_22.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3AB1B253346003BF450 /* 不转发微信_22.png */; };
+		04ABE40B1B253346003BF450 /* 不转发微博、_22.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3AC1B253346003BF450 /* 不转发微博、_22.png */; };
+		04ABE40C1B253346003BF450 /* 不转发朋友妻_22.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3AD1B253346003BF450 /* 不转发朋友妻_22.png */; };
+		04ABE40D1B253346003BF450 /* 发布动态_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3AE1B253346003BF450 /* 发布动态_03.png */; };
+		04ABE40E1B253346003BF450 /* 取消_发布03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3AF1B253346003BF450 /* 取消_发布03.png */; };
+		04ABE40F1B253346003BF450 /* 添加照片-删除图标_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B01B253346003BF450 /* 添加照片-删除图标_10.png */; };
+		04ABE4101B253346003BF450 /* 添加照片_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B11B253346003BF450 /* 添加照片_10.png */; };
+		04ABE4111B253346003BF450 /* 添加照片_13.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B21B253346003BF450 /* 添加照片_13.png */; };
+		04ABE4121B253346003BF450 /* 转发微信、_22.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B31B253346003BF450 /* 转发微信、_22.png */; };
+		04ABE4131B253346003BF450 /* 转发微博_22.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B41B253346003BF450 /* 转发微博_22.png */; };
+		04ABE4141B253346003BF450 /* 转发朋友妻_22.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B51B253346003BF450 /* 转发朋友妻_22.png */; };
+		04ABE4151B253346003BF450 /* 发现图片1_02.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B71B253346003BF450 /* 发现图片1_02.png */; };
+		04ABE4161B253346003BF450 /* 发现图片2_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B81B253346003BF450 /* 发现图片2_03.png */; };
+		04ABE4171B253346003BF450 /* 发现图片33_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3B91B253346003BF450 /* 发现图片33_03.png */; };
+		04ABE4181B253346003BF450 /* 发现图片3_02.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3BA1B253346003BF450 /* 发现图片3_02.png */; };
+		04ABE4191B253346003BF450 /* 发现图片4_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3BB1B253346003BF450 /* 发现图片4_03.png */; };
+		04ABE41A1B253346003BF450 /* 发现图片55_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3BC1B253346003BF450 /* 发现图片55_03.png */; };
+		04ABE41B1B253346003BF450 /* 关注按钮-详情_05.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3BE1B253346003BF450 /* 关注按钮-详情_05.png */; };
+		04ABE41C1B253346003BF450 /* 关注按钮_11.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3BF1B253346003BF450 /* 关注按钮_11.png */; };
+		04ABE41D1B253346003BF450 /* 我的用户详情-编辑资料_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C01B253346003BF450 /* 我的用户详情-编辑资料_10.png */; };
+		04ABE41E1B253346003BF450 /* 用户详情-关注2_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C11B253346003BF450 /* 用户详情-关注2_03.png */; };
+		04ABE41F1B253346003BF450 /* 用户详情-切换线_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C21B253346003BF450 /* 用户详情-切换线_06.png */; };
+		04ABE4201B253346003BF450 /* 用户详情-取消关注_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C31B253346003BF450 /* 用户详情-取消关注_03.png */; };
+		04ABE4211B253346003BF450 /* 用户详情-头像_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C41B253346003BF450 /* 用户详情-头像_03.png */; };
+		04ABE4221B253346003BF450 /* 用户详情分割线_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C51B253346003BF450 /* 用户详情分割线_07.png */; };
+		04ABE4231B253346003BF450 /* 详情-发消息按钮_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C61B253346003BF450 /* 详情-发消息按钮_03.png */; };
+		04ABE4241B253346003BF450 /* GO_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C81B253346003BF450 /* GO_03.png */; };
+		04ABE4251B253346003BF450 /* 上个动作_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3C91B253346003BF450 /* 上个动作_06.png */; };
+		04ABE4261B253346003BF450 /* 下一个动作_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3CA1B253346003BF450 /* 下一个动作_06.png */; };
+		04ABE4271B253346003BF450 /* 关闭课程_01.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3CB1B253346003BF450 /* 关闭课程_01.png */; };
+		04ABE4281B253346003BF450 /* 开始训练-课程3_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3CC1B253346003BF450 /* 开始训练-课程3_03.png */; };
+		04ABE4291B253346003BF450 /* 开始训练课程2_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3CD1B253346003BF450 /* 开始训练课程2_03.png */; };
+		04ABE42A1B253346003BF450 /* 点击关闭音乐_02.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3CE1B253346003BF450 /* 点击关闭音乐_02.png */; };
+		04ABE42B1B253346003BF450 /* 视频课程-暂停_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3CF1B253346003BF450 /* 视频课程-暂停_03.png */; };
+		04ABE42C1B253346003BF450 /* 课程详情_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3D01B253346003BF450 /* 课程详情_03.png */; };
+		04ABE42D1B253346003BF450 /* 添加好友搜索框,9_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3D21B253346003BF450 /* 添加好友搜索框,9_03.png */; };
+		04ABE42E1B253346003BF450 /* 添加朋友_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3D31B253346003BF450 /* 添加朋友_06.png */; };
+		04ABE42F1B253346003BF450 /* 已关注按钮_11.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3D51B253346003BF450 /* 已关注按钮_11.png */; };
+		04ABE4301B253346003BF450 /* 消息列表-图片_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3D61B253346003BF450 /* 消息列表-图片_03.png */; };
+		04ABE4311B253346003BF450 /* 消息列表-数量提示_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3D71B253346003BF450 /* 消息列表-数量提示_03.png */; };
+		04ABE4321B253346003BF450 /* 消息列表-消息提示_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3D81B253346003BF450 /* 消息列表-消息提示_03.png */; };
+		04ABE4331B253346003BF450 /* 消息列表-消息提示_06.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3D91B253346003BF450 /* 消息列表-消息提示_06.png */; };
+		04ABE4341B253346003BF450 /* 全部课程-点击对号_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3DB1B253346003BF450 /* 全部课程-点击对号_03.png */; };
+		04ABE4351B253346003BF450 /* 有11331人在训练_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3DC1B253346003BF450 /* 有11331人在训练_03.png */; };
+		04ABE4361B253346003BF450 /* 筛选课程-点击向上_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3DD1B253346003BF450 /* 筛选课程-点击向上_03.png */; };
+		04ABE4371B253346003BF450 /* 筛选课程-点击向下_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3DE1B253346003BF450 /* 筛选课程-点击向下_03.png */; };
+		04ABE4381B253346003BF450 /* 课程1_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3DF1B253346003BF450 /* 课程1_10.png */; };
+		04ABE4391B253346003BF450 /* 课程2_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E01B253346003BF450 /* 课程2_10.png */; };
+		04ABE43A1B253346003BF450 /* 课程3_10.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E11B253346003BF450 /* 课程3_10.png */; };
+		04ABE43B1B253346003BF450 /* 课程进度条1_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E21B253346003BF450 /* 课程进度条1_07.png */; };
+		04ABE43C1B253346003BF450 /* 课程进度条2_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E31B253346003BF450 /* 课程进度条2_07.png */; };
+		04ABE43D1B253346003BF450 /* 课程难度_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E41B253346003BF450 /* 课程难度_03.png */; };
+		04ABE43E1B253346003BF450 /* 暂停-动作要领图标_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E61B253346003BF450 /* 暂停-动作要领图标_03.png */; };
 		3F0F63EA1B1C62A4004EA7C3 /* SixthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F0F63E91B1C62A4004EA7C3 /* SixthViewController.m */; };
 		3F10D1BB1B1D60AD0001EDB5 /* TabBarAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F10D1BA1B1D60AD0001EDB5 /* TabBarAppDelegate.m */; };
 		BCCAD04E19E5120600C3D904 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCCAD04D19E5120600C3D904 /* Foundation.framework */; };
@@ -42,6 +130,94 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		04ABE3831B253346003BF450 /* 个人资料-小剪头_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "个人资料-小剪头_03.png"; sourceTree = "<group>"; };
+		04ABE3841B253346003BF450 /* 个人资料-编辑头像_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "个人资料-编辑头像_03.png"; sourceTree = "<group>"; };
+		04ABE3861B253346003BF450 /* 会话2_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "会话2_03.png"; sourceTree = "<group>"; };
+		04ABE3871B253346003BF450 /* 动态2_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态2_03.png"; sourceTree = "<group>"; };
+		04ABE3881B253346003BF450 /* 动态_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态_03.png"; sourceTree = "<group>"; };
+		04ABE3891B253346003BF450 /* 我的_09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的_09.png"; sourceTree = "<group>"; };
+		04ABE38A1B253346003BF450 /* 我的用户详情_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的用户详情_03.png"; sourceTree = "<group>"; };
+		04ABE38B1B253346003BF450 /* 我的训练2_09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的训练2_09.png"; sourceTree = "<group>"; };
+		04ABE38C1B253346003BF450 /* 我的训练_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的训练_03.png"; sourceTree = "<group>"; };
+		04ABE38D1B253346003BF450 /* 用户2_09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "用户2_09.png"; sourceTree = "<group>"; };
+		04ABE38F1B253346003BF450 /* 发布动态_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布动态_03.png"; sourceTree = "<group>"; };
+		04ABE3901B253346003BF450 /* 导航-更多_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "导航-更多_03.png"; sourceTree = "<group>"; };
+		04ABE3911B253346003BF450 /* 导航-返回_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "导航-返回_03.png"; sourceTree = "<group>"; };
+		04ABE3921B253346003BF450 /* 消息列表-添加-好友_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "消息列表-添加-好友_03.png"; sourceTree = "<group>"; };
+		04ABE3931B253346003BF450 /* 消息列表_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "消息列表_03.png"; sourceTree = "<group>"; };
+		04ABE3941B253346003BF450 /* 训练右上角添加课程_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "训练右上角添加课程_03.png"; sourceTree = "<group>"; };
+		04ABE3951B253346003BF450 /* 设置_05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "设置_05.png"; sourceTree = "<group>"; };
+		04ABE3971B253346003BF450 /* 动态-完成训练对号_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态-完成训练对号_03.png"; sourceTree = "<group>"; };
+		04ABE3981B253346003BF450 /* 动态用户小头像_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态用户小头像_03.png"; sourceTree = "<group>"; };
+		04ABE3991B253346003BF450 /* 动态留言_13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态留言_13.png"; sourceTree = "<group>"; };
+		04ABE39A1B253346003BF450 /* 动态详情_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态详情_06.png"; sourceTree = "<group>"; };
+		04ABE39B1B253346003BF450 /* 动态赞_13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态赞_13.png"; sourceTree = "<group>"; };
+		04ABE39C1B253346003BF450 /* 动态转发_16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "动态转发_16.png"; sourceTree = "<group>"; };
+		04ABE39D1B253346003BF450 /* 发布留言按钮.9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布留言按钮.9.png"; sourceTree = "<group>"; };
+		04ABE39E1B253346003BF450 /* 已经留过言_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "已经留过言_07.png"; sourceTree = "<group>"; };
+		04ABE39F1B253346003BF450 /* 消息列表-赞图标_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "消息列表-赞图标_06.png"; sourceTree = "<group>"; };
+		04ABE3A01B253346003BF450 /* 留言铅笔_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "留言铅笔_07.png"; sourceTree = "<group>"; };
+		04ABE3A11B253346003BF450 /* 赞-更多_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "赞-更多_03.png"; sourceTree = "<group>"; };
+		04ABE3A21B253346003BF450 /* 赞用户-头像_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "赞用户-头像_03.png"; sourceTree = "<group>"; };
+		04ABE3A41B253346003BF450 /* 对方消息_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "对方消息_03.png"; sourceTree = "<group>"; };
+		04ABE3A51B253346003BF450 /* 我的消息框_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的消息框_07.png"; sourceTree = "<group>"; };
+		04ABE3A61B253346003BF450 /* 拍摄_05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "拍摄_05.png"; sourceTree = "<group>"; };
+		04ABE3A71B253346003BF450 /* 添加_12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "添加_12.png"; sourceTree = "<group>"; };
+		04ABE3A81B253346003BF450 /* 添加照片_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "添加照片_03.png"; sourceTree = "<group>"; };
+		04ABE3A91B253346003BF450 /* 点击添加表情.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "点击添加表情.png"; sourceTree = "<group>"; };
+		04ABE3AB1B253346003BF450 /* 不转发微信_22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "不转发微信_22.png"; sourceTree = "<group>"; };
+		04ABE3AC1B253346003BF450 /* 不转发微博、_22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "不转发微博、_22.png"; sourceTree = "<group>"; };
+		04ABE3AD1B253346003BF450 /* 不转发朋友妻_22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "不转发朋友妻_22.png"; sourceTree = "<group>"; };
+		04ABE3AE1B253346003BF450 /* 发布动态_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发布动态_03.png"; sourceTree = "<group>"; };
+		04ABE3AF1B253346003BF450 /* 取消_发布03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "取消_发布03.png"; sourceTree = "<group>"; };
+		04ABE3B01B253346003BF450 /* 添加照片-删除图标_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "添加照片-删除图标_10.png"; sourceTree = "<group>"; };
+		04ABE3B11B253346003BF450 /* 添加照片_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "添加照片_10.png"; sourceTree = "<group>"; };
+		04ABE3B21B253346003BF450 /* 添加照片_13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "添加照片_13.png"; sourceTree = "<group>"; };
+		04ABE3B31B253346003BF450 /* 转发微信、_22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "转发微信、_22.png"; sourceTree = "<group>"; };
+		04ABE3B41B253346003BF450 /* 转发微博_22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "转发微博_22.png"; sourceTree = "<group>"; };
+		04ABE3B51B253346003BF450 /* 转发朋友妻_22.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "转发朋友妻_22.png"; sourceTree = "<group>"; };
+		04ABE3B71B253346003BF450 /* 发现图片1_02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发现图片1_02.png"; sourceTree = "<group>"; };
+		04ABE3B81B253346003BF450 /* 发现图片2_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发现图片2_03.png"; sourceTree = "<group>"; };
+		04ABE3B91B253346003BF450 /* 发现图片33_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发现图片33_03.png"; sourceTree = "<group>"; };
+		04ABE3BA1B253346003BF450 /* 发现图片3_02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发现图片3_02.png"; sourceTree = "<group>"; };
+		04ABE3BB1B253346003BF450 /* 发现图片4_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发现图片4_03.png"; sourceTree = "<group>"; };
+		04ABE3BC1B253346003BF450 /* 发现图片55_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "发现图片55_03.png"; sourceTree = "<group>"; };
+		04ABE3BE1B253346003BF450 /* 关注按钮-详情_05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "关注按钮-详情_05.png"; sourceTree = "<group>"; };
+		04ABE3BF1B253346003BF450 /* 关注按钮_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "关注按钮_11.png"; sourceTree = "<group>"; };
+		04ABE3C01B253346003BF450 /* 我的用户详情-编辑资料_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "我的用户详情-编辑资料_10.png"; sourceTree = "<group>"; };
+		04ABE3C11B253346003BF450 /* 用户详情-关注2_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "用户详情-关注2_03.png"; sourceTree = "<group>"; };
+		04ABE3C21B253346003BF450 /* 用户详情-切换线_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "用户详情-切换线_06.png"; sourceTree = "<group>"; };
+		04ABE3C31B253346003BF450 /* 用户详情-取消关注_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "用户详情-取消关注_03.png"; sourceTree = "<group>"; };
+		04ABE3C41B253346003BF450 /* 用户详情-头像_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "用户详情-头像_03.png"; sourceTree = "<group>"; };
+		04ABE3C51B253346003BF450 /* 用户详情分割线_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "用户详情分割线_07.png"; sourceTree = "<group>"; };
+		04ABE3C61B253346003BF450 /* 详情-发消息按钮_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "详情-发消息按钮_03.png"; sourceTree = "<group>"; };
+		04ABE3C81B253346003BF450 /* GO_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GO_03.png; sourceTree = "<group>"; };
+		04ABE3C91B253346003BF450 /* 上个动作_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "上个动作_06.png"; sourceTree = "<group>"; };
+		04ABE3CA1B253346003BF450 /* 下一个动作_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "下一个动作_06.png"; sourceTree = "<group>"; };
+		04ABE3CB1B253346003BF450 /* 关闭课程_01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "关闭课程_01.png"; sourceTree = "<group>"; };
+		04ABE3CC1B253346003BF450 /* 开始训练-课程3_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "开始训练-课程3_03.png"; sourceTree = "<group>"; };
+		04ABE3CD1B253346003BF450 /* 开始训练课程2_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "开始训练课程2_03.png"; sourceTree = "<group>"; };
+		04ABE3CE1B253346003BF450 /* 点击关闭音乐_02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "点击关闭音乐_02.png"; sourceTree = "<group>"; };
+		04ABE3CF1B253346003BF450 /* 视频课程-暂停_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "视频课程-暂停_03.png"; sourceTree = "<group>"; };
+		04ABE3D01B253346003BF450 /* 课程详情_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程详情_03.png"; sourceTree = "<group>"; };
+		04ABE3D21B253346003BF450 /* 添加好友搜索框,9_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "添加好友搜索框,9_03.png"; sourceTree = "<group>"; };
+		04ABE3D31B253346003BF450 /* 添加朋友_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "添加朋友_06.png"; sourceTree = "<group>"; };
+		04ABE3D51B253346003BF450 /* 已关注按钮_11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "已关注按钮_11.png"; sourceTree = "<group>"; };
+		04ABE3D61B253346003BF450 /* 消息列表-图片_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "消息列表-图片_03.png"; sourceTree = "<group>"; };
+		04ABE3D71B253346003BF450 /* 消息列表-数量提示_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "消息列表-数量提示_03.png"; sourceTree = "<group>"; };
+		04ABE3D81B253346003BF450 /* 消息列表-消息提示_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "消息列表-消息提示_03.png"; sourceTree = "<group>"; };
+		04ABE3D91B253346003BF450 /* 消息列表-消息提示_06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "消息列表-消息提示_06.png"; sourceTree = "<group>"; };
+		04ABE3DB1B253346003BF450 /* 全部课程-点击对号_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "全部课程-点击对号_03.png"; sourceTree = "<group>"; };
+		04ABE3DC1B253346003BF450 /* 有11331人在训练_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "有11331人在训练_03.png"; sourceTree = "<group>"; };
+		04ABE3DD1B253346003BF450 /* 筛选课程-点击向上_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "筛选课程-点击向上_03.png"; sourceTree = "<group>"; };
+		04ABE3DE1B253346003BF450 /* 筛选课程-点击向下_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "筛选课程-点击向下_03.png"; sourceTree = "<group>"; };
+		04ABE3DF1B253346003BF450 /* 课程1_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程1_10.png"; sourceTree = "<group>"; };
+		04ABE3E01B253346003BF450 /* 课程2_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程2_10.png"; sourceTree = "<group>"; };
+		04ABE3E11B253346003BF450 /* 课程3_10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程3_10.png"; sourceTree = "<group>"; };
+		04ABE3E21B253346003BF450 /* 课程进度条1_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程进度条1_07.png"; sourceTree = "<group>"; };
+		04ABE3E31B253346003BF450 /* 课程进度条2_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程进度条2_07.png"; sourceTree = "<group>"; };
+		04ABE3E41B253346003BF450 /* 课程难度_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程难度_03.png"; sourceTree = "<group>"; };
+		04ABE3E61B253346003BF450 /* 暂停-动作要领图标_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "暂停-动作要领图标_03.png"; sourceTree = "<group>"; };
 		3F0F63E81B1C62A4004EA7C3 /* SixthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SixthViewController.h; sourceTree = "<group>"; };
 		3F0F63E91B1C62A4004EA7C3 /* SixthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SixthViewController.m; sourceTree = "<group>"; };
 		3F10D1B91B1D60AD0001EDB5 /* TabBarAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarAppDelegate.h; sourceTree = "<group>"; };
@@ -105,6 +281,205 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		04ABE3811B2532C4003BF450 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3821B253346003BF450 /* 编辑资料 */,
+				04ABE3851B253346003BF450 /* 底部栏 */,
+				04ABE38E1B253346003BF450 /* 顶部栏 */,
+				04ABE3961B253346003BF450 /* 动态图片 */,
+				04ABE3A31B253346003BF450 /* 对话页面 */,
+				04ABE3AA1B253346003BF450 /* 发布动态 */,
+				04ABE3B61B253346003BF450 /* 发现 */,
+				04ABE3BD1B253346003BF450 /* 个人页面 */,
+				04ABE3C71B253346003BF450 /* 视频课程页面 */,
+				04ABE3D11B253346003BF450 /* 添加好友图片 */,
+				04ABE3D41B253346003BF450 /* 消息列表页面图片 */,
+				04ABE3DA1B253346003BF450 /* 训练课程页面 */,
+				04ABE3E51B253346003BF450 /* 暂定 动作要领 */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		04ABE3821B253346003BF450 /* 编辑资料 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3831B253346003BF450 /* 个人资料-小剪头_03.png */,
+				04ABE3841B253346003BF450 /* 个人资料-编辑头像_03.png */,
+			);
+			path = "编辑资料";
+			sourceTree = "<group>";
+		};
+		04ABE3851B253346003BF450 /* 底部栏 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3861B253346003BF450 /* 会话2_03.png */,
+				04ABE3871B253346003BF450 /* 动态2_03.png */,
+				04ABE3881B253346003BF450 /* 动态_03.png */,
+				04ABE3891B253346003BF450 /* 我的_09.png */,
+				04ABE38A1B253346003BF450 /* 我的用户详情_03.png */,
+				04ABE38B1B253346003BF450 /* 我的训练2_09.png */,
+				04ABE38C1B253346003BF450 /* 我的训练_03.png */,
+				04ABE38D1B253346003BF450 /* 用户2_09.png */,
+			);
+			path = "底部栏";
+			sourceTree = "<group>";
+		};
+		04ABE38E1B253346003BF450 /* 顶部栏 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE38F1B253346003BF450 /* 发布动态_03.png */,
+				04ABE3901B253346003BF450 /* 导航-更多_03.png */,
+				04ABE3911B253346003BF450 /* 导航-返回_03.png */,
+				04ABE3921B253346003BF450 /* 消息列表-添加-好友_03.png */,
+				04ABE3931B253346003BF450 /* 消息列表_03.png */,
+				04ABE3941B253346003BF450 /* 训练右上角添加课程_03.png */,
+				04ABE3951B253346003BF450 /* 设置_05.png */,
+			);
+			path = "顶部栏";
+			sourceTree = "<group>";
+		};
+		04ABE3961B253346003BF450 /* 动态图片 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3971B253346003BF450 /* 动态-完成训练对号_03.png */,
+				04ABE3981B253346003BF450 /* 动态用户小头像_03.png */,
+				04ABE3991B253346003BF450 /* 动态留言_13.png */,
+				04ABE39A1B253346003BF450 /* 动态详情_06.png */,
+				04ABE39B1B253346003BF450 /* 动态赞_13.png */,
+				04ABE39C1B253346003BF450 /* 动态转发_16.png */,
+				04ABE39D1B253346003BF450 /* 发布留言按钮.9.png */,
+				04ABE39E1B253346003BF450 /* 已经留过言_07.png */,
+				04ABE39F1B253346003BF450 /* 消息列表-赞图标_06.png */,
+				04ABE3A01B253346003BF450 /* 留言铅笔_07.png */,
+				04ABE3A11B253346003BF450 /* 赞-更多_03.png */,
+				04ABE3A21B253346003BF450 /* 赞用户-头像_03.png */,
+			);
+			path = "动态图片";
+			sourceTree = "<group>";
+		};
+		04ABE3A31B253346003BF450 /* 对话页面 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3A41B253346003BF450 /* 对方消息_03.png */,
+				04ABE3A51B253346003BF450 /* 我的消息框_07.png */,
+				04ABE3A61B253346003BF450 /* 拍摄_05.png */,
+				04ABE3A71B253346003BF450 /* 添加_12.png */,
+				04ABE3A81B253346003BF450 /* 添加照片_03.png */,
+				04ABE3A91B253346003BF450 /* 点击添加表情.png */,
+			);
+			path = "对话页面";
+			sourceTree = "<group>";
+		};
+		04ABE3AA1B253346003BF450 /* 发布动态 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3AB1B253346003BF450 /* 不转发微信_22.png */,
+				04ABE3AC1B253346003BF450 /* 不转发微博、_22.png */,
+				04ABE3AD1B253346003BF450 /* 不转发朋友妻_22.png */,
+				04ABE3AE1B253346003BF450 /* 发布动态_03.png */,
+				04ABE3AF1B253346003BF450 /* 取消_发布03.png */,
+				04ABE3B01B253346003BF450 /* 添加照片-删除图标_10.png */,
+				04ABE3B11B253346003BF450 /* 添加照片_10.png */,
+				04ABE3B21B253346003BF450 /* 添加照片_13.png */,
+				04ABE3B31B253346003BF450 /* 转发微信、_22.png */,
+				04ABE3B41B253346003BF450 /* 转发微博_22.png */,
+				04ABE3B51B253346003BF450 /* 转发朋友妻_22.png */,
+			);
+			path = "发布动态";
+			sourceTree = "<group>";
+		};
+		04ABE3B61B253346003BF450 /* 发现 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3B71B253346003BF450 /* 发现图片1_02.png */,
+				04ABE3B81B253346003BF450 /* 发现图片2_03.png */,
+				04ABE3B91B253346003BF450 /* 发现图片33_03.png */,
+				04ABE3BA1B253346003BF450 /* 发现图片3_02.png */,
+				04ABE3BB1B253346003BF450 /* 发现图片4_03.png */,
+				04ABE3BC1B253346003BF450 /* 发现图片55_03.png */,
+			);
+			path = "发现";
+			sourceTree = "<group>";
+		};
+		04ABE3BD1B253346003BF450 /* 个人页面 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3BE1B253346003BF450 /* 关注按钮-详情_05.png */,
+				04ABE3BF1B253346003BF450 /* 关注按钮_11.png */,
+				04ABE3C01B253346003BF450 /* 我的用户详情-编辑资料_10.png */,
+				04ABE3C11B253346003BF450 /* 用户详情-关注2_03.png */,
+				04ABE3C21B253346003BF450 /* 用户详情-切换线_06.png */,
+				04ABE3C31B253346003BF450 /* 用户详情-取消关注_03.png */,
+				04ABE3C41B253346003BF450 /* 用户详情-头像_03.png */,
+				04ABE3C51B253346003BF450 /* 用户详情分割线_07.png */,
+				04ABE3C61B253346003BF450 /* 详情-发消息按钮_03.png */,
+			);
+			path = "个人页面";
+			sourceTree = "<group>";
+		};
+		04ABE3C71B253346003BF450 /* 视频课程页面 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3C81B253346003BF450 /* GO_03.png */,
+				04ABE3C91B253346003BF450 /* 上个动作_06.png */,
+				04ABE3CA1B253346003BF450 /* 下一个动作_06.png */,
+				04ABE3CB1B253346003BF450 /* 关闭课程_01.png */,
+				04ABE3CC1B253346003BF450 /* 开始训练-课程3_03.png */,
+				04ABE3CD1B253346003BF450 /* 开始训练课程2_03.png */,
+				04ABE3CE1B253346003BF450 /* 点击关闭音乐_02.png */,
+				04ABE3CF1B253346003BF450 /* 视频课程-暂停_03.png */,
+				04ABE3D01B253346003BF450 /* 课程详情_03.png */,
+			);
+			path = "视频课程页面";
+			sourceTree = "<group>";
+		};
+		04ABE3D11B253346003BF450 /* 添加好友图片 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3D21B253346003BF450 /* 添加好友搜索框,9_03.png */,
+				04ABE3D31B253346003BF450 /* 添加朋友_06.png */,
+			);
+			path = "添加好友图片";
+			sourceTree = "<group>";
+		};
+		04ABE3D41B253346003BF450 /* 消息列表页面图片 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3D51B253346003BF450 /* 已关注按钮_11.png */,
+				04ABE3D61B253346003BF450 /* 消息列表-图片_03.png */,
+				04ABE3D71B253346003BF450 /* 消息列表-数量提示_03.png */,
+				04ABE3D81B253346003BF450 /* 消息列表-消息提示_03.png */,
+				04ABE3D91B253346003BF450 /* 消息列表-消息提示_06.png */,
+			);
+			path = "消息列表页面图片";
+			sourceTree = "<group>";
+		};
+		04ABE3DA1B253346003BF450 /* 训练课程页面 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3DB1B253346003BF450 /* 全部课程-点击对号_03.png */,
+				04ABE3DC1B253346003BF450 /* 有11331人在训练_03.png */,
+				04ABE3DD1B253346003BF450 /* 筛选课程-点击向上_03.png */,
+				04ABE3DE1B253346003BF450 /* 筛选课程-点击向下_03.png */,
+				04ABE3DF1B253346003BF450 /* 课程1_10.png */,
+				04ABE3E01B253346003BF450 /* 课程2_10.png */,
+				04ABE3E11B253346003BF450 /* 课程3_10.png */,
+				04ABE3E21B253346003BF450 /* 课程进度条1_07.png */,
+				04ABE3E31B253346003BF450 /* 课程进度条2_07.png */,
+				04ABE3E41B253346003BF450 /* 课程难度_03.png */,
+			);
+			path = "训练课程页面";
+			sourceTree = "<group>";
+		};
+		04ABE3E51B253346003BF450 /* 暂定 动作要领 */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE3E61B253346003BF450 /* 暂停-动作要领图标_03.png */,
+			);
+			path = "暂定 动作要领";
+			sourceTree = "<group>";
+		};
 		3F10D1941B1D5F460001EDB5 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
@@ -373,6 +748,7 @@
 		BCCAD05319E5120600C3D904 /* tabbarDemo */ = {
 			isa = PBXGroup;
 			children = (
+				04ABE3811B2532C4003BF450 /* images */,
 				3F10D1941B1D5F460001EDB5 /* Classes */,
 				BCCAD05F19E5120600C3D904 /* Main.storyboard */,
 				BCCAD08219E5123D00C3D904 /* NTViewController.h */,
@@ -514,9 +890,97 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04ABE4261B253346003BF450 /* 下一个动作_06.png in Resources */,
+				04ABE4061B253346003BF450 /* 拍摄_05.png in Resources */,
+				04ABE4391B253346003BF450 /* 课程2_10.png in Resources */,
+				04ABE4211B253346003BF450 /* 用户详情-头像_03.png in Resources */,
+				04ABE4161B253346003BF450 /* 发现图片2_03.png in Resources */,
+				04ABE4181B253346003BF450 /* 发现图片3_02.png in Resources */,
+				04ABE4071B253346003BF450 /* 添加_12.png in Resources */,
+				04ABE3E91B253346003BF450 /* 会话2_03.png in Resources */,
+				04ABE3EE1B253346003BF450 /* 我的训练2_09.png in Resources */,
+				04ABE3FF1B253346003BF450 /* 已经留过言_07.png in Resources */,
 				BCCAD06619E5120600C3D904 /* Images.xcassets in Resources */,
+				04ABE43D1B253346003BF450 /* 课程难度_03.png in Resources */,
+				04ABE4301B253346003BF450 /* 消息列表-图片_03.png in Resources */,
+				04ABE42E1B253346003BF450 /* 添加朋友_06.png in Resources */,
+				04ABE4081B253346003BF450 /* 添加照片_03.png in Resources */,
+				04ABE4311B253346003BF450 /* 消息列表-数量提示_03.png in Resources */,
+				04ABE43A1B253346003BF450 /* 课程3_10.png in Resources */,
+				04ABE41C1B253346003BF450 /* 关注按钮_11.png in Resources */,
+				04ABE4151B253346003BF450 /* 发现图片1_02.png in Resources */,
+				04ABE42C1B253346003BF450 /* 课程详情_03.png in Resources */,
+				04ABE3FA1B253346003BF450 /* 动态留言_13.png in Resources */,
+				04ABE4111B253346003BF450 /* 添加照片_13.png in Resources */,
+				04ABE4291B253346003BF450 /* 开始训练课程2_03.png in Resources */,
+				04ABE3FC1B253346003BF450 /* 动态赞_13.png in Resources */,
+				04ABE3E81B253346003BF450 /* 个人资料-编辑头像_03.png in Resources */,
+				04ABE40E1B253346003BF450 /* 取消_发布03.png in Resources */,
+				04ABE4171B253346003BF450 /* 发现图片33_03.png in Resources */,
+				04ABE3F71B253346003BF450 /* 设置_05.png in Resources */,
+				04ABE3F51B253346003BF450 /* 消息列表_03.png in Resources */,
+				04ABE42B1B253346003BF450 /* 视频课程-暂停_03.png in Resources */,
+				04ABE4141B253346003BF450 /* 转发朋友妻_22.png in Resources */,
+				04ABE4331B253346003BF450 /* 消息列表-消息提示_06.png in Resources */,
+				04ABE40A1B253346003BF450 /* 不转发微信_22.png in Resources */,
+				04ABE3FB1B253346003BF450 /* 动态详情_06.png in Resources */,
+				04ABE40B1B253346003BF450 /* 不转发微博、_22.png in Resources */,
+				04ABE3F81B253346003BF450 /* 动态-完成训练对号_03.png in Resources */,
+				04ABE3ED1B253346003BF450 /* 我的用户详情_03.png in Resources */,
+				04ABE43C1B253346003BF450 /* 课程进度条2_07.png in Resources */,
+				04ABE3EC1B253346003BF450 /* 我的_09.png in Resources */,
+				04ABE4231B253346003BF450 /* 详情-发消息按钮_03.png in Resources */,
+				04ABE3F31B253346003BF450 /* 导航-返回_03.png in Resources */,
+				04ABE4091B253346003BF450 /* 点击添加表情.png in Resources */,
+				04ABE4131B253346003BF450 /* 转发微博_22.png in Resources */,
+				04ABE4361B253346003BF450 /* 筛选课程-点击向上_03.png in Resources */,
+				04ABE4041B253346003BF450 /* 对方消息_03.png in Resources */,
+				04ABE3EA1B253346003BF450 /* 动态2_03.png in Resources */,
+				04ABE41D1B253346003BF450 /* 我的用户详情-编辑资料_10.png in Resources */,
+				04ABE41A1B253346003BF450 /* 发现图片55_03.png in Resources */,
+				04ABE4031B253346003BF450 /* 赞用户-头像_03.png in Resources */,
+				04ABE4351B253346003BF450 /* 有11331人在训练_03.png in Resources */,
+				04ABE4191B253346003BF450 /* 发现图片4_03.png in Resources */,
+				04ABE40D1B253346003BF450 /* 发布动态_03.png in Resources */,
+				04ABE43B1B253346003BF450 /* 课程进度条1_07.png in Resources */,
+				04ABE3F91B253346003BF450 /* 动态用户小头像_03.png in Resources */,
+				04ABE42F1B253346003BF450 /* 已关注按钮_11.png in Resources */,
+				04ABE40F1B253346003BF450 /* 添加照片-删除图标_10.png in Resources */,
+				04ABE4371B253346003BF450 /* 筛选课程-点击向下_03.png in Resources */,
+				04ABE4341B253346003BF450 /* 全部课程-点击对号_03.png in Resources */,
+				04ABE4021B253346003BF450 /* 赞-更多_03.png in Resources */,
+				04ABE4281B253346003BF450 /* 开始训练-课程3_03.png in Resources */,
+				04ABE4051B253346003BF450 /* 我的消息框_07.png in Resources */,
+				04ABE4101B253346003BF450 /* 添加照片_10.png in Resources */,
+				04ABE4011B253346003BF450 /* 留言铅笔_07.png in Resources */,
+				04ABE41F1B253346003BF450 /* 用户详情-切换线_06.png in Resources */,
 				BCCAD05819E5120600C3D904 /* InfoPlist.strings in Resources */,
+				04ABE3F01B253346003BF450 /* 用户2_09.png in Resources */,
+				04ABE3FE1B253346003BF450 /* 发布留言按钮.9.png in Resources */,
+				04ABE4321B253346003BF450 /* 消息列表-消息提示_03.png in Resources */,
+				04ABE3F21B253346003BF450 /* 导航-更多_03.png in Resources */,
+				04ABE3FD1B253346003BF450 /* 动态转发_16.png in Resources */,
+				04ABE42D1B253346003BF450 /* 添加好友搜索框,9_03.png in Resources */,
+				04ABE4271B253346003BF450 /* 关闭课程_01.png in Resources */,
+				04ABE3F11B253346003BF450 /* 发布动态_03.png in Resources */,
+				04ABE4121B253346003BF450 /* 转发微信、_22.png in Resources */,
+				04ABE41B1B253346003BF450 /* 关注按钮-详情_05.png in Resources */,
+				04ABE4251B253346003BF450 /* 上个动作_06.png in Resources */,
 				BCCAD06119E5120600C3D904 /* Main.storyboard in Resources */,
+				04ABE3F61B253346003BF450 /* 训练右上角添加课程_03.png in Resources */,
+				04ABE4381B253346003BF450 /* 课程1_10.png in Resources */,
+				04ABE4201B253346003BF450 /* 用户详情-取消关注_03.png in Resources */,
+				04ABE43E1B253346003BF450 /* 暂停-动作要领图标_03.png in Resources */,
+				04ABE3EF1B253346003BF450 /* 我的训练_03.png in Resources */,
+				04ABE40C1B253346003BF450 /* 不转发朋友妻_22.png in Resources */,
+				04ABE4221B253346003BF450 /* 用户详情分割线_07.png in Resources */,
+				04ABE3E71B253346003BF450 /* 个人资料-小剪头_03.png in Resources */,
+				04ABE4001B253346003BF450 /* 消息列表-赞图标_06.png in Resources */,
+				04ABE3F41B253346003BF450 /* 消息列表-添加-好友_03.png in Resources */,
+				04ABE42A1B253346003BF450 /* 点击关闭音乐_02.png in Resources */,
+				04ABE41E1B253346003BF450 /* 用户详情-关注2_03.png in Resources */,
+				04ABE4241B253346003BF450 /* GO_03.png in Resources */,
+				04ABE3EB1B253346003BF450 /* 动态_03.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
