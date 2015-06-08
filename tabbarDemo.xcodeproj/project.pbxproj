@@ -95,7 +95,7 @@
 		04ABE43C1B253346003BF450 /* 课程进度条2_07.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E31B253346003BF450 /* 课程进度条2_07.png */; };
 		04ABE43D1B253346003BF450 /* 课程难度_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E41B253346003BF450 /* 课程难度_03.png */; };
 		04ABE43E1B253346003BF450 /* 暂停-动作要领图标_03.png in Resources */ = {isa = PBXBuildFile; fileRef = 04ABE3E61B253346003BF450 /* 暂停-动作要领图标_03.png */; };
-		3F0F63EA1B1C62A4004EA7C3 /* SixthViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F0F63E91B1C62A4004EA7C3 /* SixthViewController.m */; };
+		04ABE4421B253A84003BF450 /* UIImage+UIImageExtras.m in Sources */ = {isa = PBXBuildFile; fileRef = 04ABE4411B253A84003BF450 /* UIImage+UIImageExtras.m */; };
 		3F10D1BB1B1D60AD0001EDB5 /* TabBarAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F10D1BA1B1D60AD0001EDB5 /* TabBarAppDelegate.m */; };
 		BCCAD04E19E5120600C3D904 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCCAD04D19E5120600C3D904 /* Foundation.framework */; };
 		BCCAD05019E5120600C3D904 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BCCAD04F19E5120600C3D904 /* CoreGraphics.framework */; };
@@ -218,8 +218,8 @@
 		04ABE3E31B253346003BF450 /* 课程进度条2_07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程进度条2_07.png"; sourceTree = "<group>"; };
 		04ABE3E41B253346003BF450 /* 课程难度_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "课程难度_03.png"; sourceTree = "<group>"; };
 		04ABE3E61B253346003BF450 /* 暂停-动作要领图标_03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "暂停-动作要领图标_03.png"; sourceTree = "<group>"; };
-		3F0F63E81B1C62A4004EA7C3 /* SixthViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SixthViewController.h; sourceTree = "<group>"; };
-		3F0F63E91B1C62A4004EA7C3 /* SixthViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SixthViewController.m; sourceTree = "<group>"; };
+		04ABE4401B253A84003BF450 /* UIImage+UIImageExtras.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIImage+UIImageExtras.h"; sourceTree = "<group>"; };
+		04ABE4411B253A84003BF450 /* UIImage+UIImageExtras.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIImage+UIImageExtras.m"; sourceTree = "<group>"; };
 		3F10D1B91B1D60AD0001EDB5 /* TabBarAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TabBarAppDelegate.h; sourceTree = "<group>"; };
 		3F10D1BA1B1D60AD0001EDB5 /* TabBarAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TabBarAppDelegate.m; sourceTree = "<group>"; };
 		B93FD24C12E6127E22B029C2 /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
@@ -478,6 +478,15 @@
 				04ABE3E61B253346003BF450 /* 暂停-动作要领图标_03.png */,
 			);
 			path = "暂定 动作要领";
+			sourceTree = "<group>";
+		};
+		04ABE43F1B2537E3003BF450 /* Tools */ = {
+			isa = PBXGroup;
+			children = (
+				04ABE4401B253A84003BF450 /* UIImage+UIImageExtras.h */,
+				04ABE4411B253A84003BF450 /* UIImage+UIImageExtras.m */,
+			);
+			path = Tools;
 			sourceTree = "<group>";
 		};
 		3F10D1941B1D5F460001EDB5 /* Classes */ = {
@@ -748,6 +757,7 @@
 		BCCAD05319E5120600C3D904 /* tabbarDemo */ = {
 			isa = PBXGroup;
 			children = (
+				04ABE43F1B2537E3003BF450 /* Tools */,
 				04ABE3811B2532C4003BF450 /* images */,
 				3F10D1941B1D5F460001EDB5 /* Classes */,
 				BCCAD05F19E5120600C3D904 /* Main.storyboard */,
@@ -767,8 +777,6 @@
 				BCCAD05419E5120600C3D904 /* Supporting Files */,
 				F9A283661A4D1B060009792F /* BaseNavigationViewController.h */,
 				F9A283671A4D1B060009792F /* BaseNavigationViewController.m */,
-				3F0F63E81B1C62A4004EA7C3 /* SixthViewController.h */,
-				3F0F63E91B1C62A4004EA7C3 /* SixthViewController.m */,
 			);
 			path = tabbarDemo;
 			sourceTree = "<group>";
@@ -1036,12 +1044,12 @@
 				BCCAD0BD19E5296800C3D904 /* SecondViewController.m in Sources */,
 				F9A283681A4D1B060009792F /* BaseNavigationViewController.m in Sources */,
 				BCCAD08419E5123D00C3D904 /* NTViewController.m in Sources */,
+				04ABE4421B253A84003BF450 /* UIImage+UIImageExtras.m in Sources */,
 				BCCAD0BA19E5287100C3D904 /* FirstViewController.m in Sources */,
 				3F10D1BB1B1D60AD0001EDB5 /* TabBarAppDelegate.m in Sources */,
 				BCCAD05A19E5120600C3D904 /* main.m in Sources */,
 				BCCAD08719E514AD00C3D904 /* NTButton.m in Sources */,
 				BCCAD0C019E5297800C3D904 /* ThirdViewController.m in Sources */,
-				3F0F63EA1B1C62A4004EA7C3 /* SixthViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

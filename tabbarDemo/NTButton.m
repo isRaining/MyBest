@@ -23,10 +23,10 @@
 
 - (CGRect)imageRectForContentRect:(CGRect)contentRect{
 
-    CGFloat imageW = contentRect.size.width;
-    CGFloat imageH = contentRect.size.height * 0.6;
+    CGFloat imageW = 48;
+    CGFloat imageH = 45;
     
-    return CGRectMake(0, 5, imageW, imageH);
+    return CGRectMake((contentRect.size.width-imageW)/2, (contentRect.size.height-imageH)/2, imageW, imageH);
 
 }
 

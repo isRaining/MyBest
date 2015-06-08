@@ -37,7 +37,7 @@
     [button setBackgroundColor:[UIColor purpleColor]];
     [button setTitle:@"响应事件" forState:UIControlStateNormal];
     button.layer.cornerRadius = 10.f;
-    [button addTarget:self action:@selector(goOtherView:) forControlEvents:UIControlEventTouchUpInside];
+//    [button addTarget:self action:@selector(goOtherView:) forControlEvents:UIControlEventTouchUpInside];
     [self.view addSubview:button];
     // Do any additional setup after loading the view.
     

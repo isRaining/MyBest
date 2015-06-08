@@ -13,7 +13,7 @@
 #import "ThirdViewController.h"
 #import "FourthViewController.h"
 #import "BaseNavigationViewController.h"
-#import "SixthViewController.h"
+#import "UIImage+UIImageExtras.h"
 
 #define kTotalTabBarVC 4
 
@@ -66,7 +66,7 @@
     //wsq
     _tabBarView = [[UIImageView alloc]initWithFrame:self.tabBar.bounds];
     _tabBarView.userInteractionEnabled = YES;
-    _tabBarView.backgroundColor = [UIColor blackColor];
+    _tabBarView.backgroundColor = [UIColor whiteColor];
     //[self.view addSubview:_tabBarView];
     //wsq
     [self.tabBar addSubview:_tabBarView];
@@ -84,10 +84,10 @@
     
     self.viewControllers = [NSArray arrayWithObjects:navi1,navi2,navi3,navi4, nil];
     
-    [self creatButtonWithNormalName:@"tabbar_client.png" andSelectName:@"tabbar_client_selected.png" andTitle:@"联系人" andIndex:0];
-    [self creatButtonWithNormalName:@"tabbar_product" andSelectName:@"tabbar_product_selected" andTitle:@"消息列表" andIndex:1];
-    [self creatButtonWithNormalName:@"tabbar_info" andSelectName:@"tabbar_info_selected" andTitle:@"发现" andIndex:2];
-    [self creatButtonWithNormalName:@"tabbar_more" andSelectName:@"tabbar_more_selected" andTitle:@"个人中心" andIndex:3];
+    [self creatButtonWithNormalName:@"我的训练_03.png" andSelectName:@"我的训练2_09.png" andTitle:nil andIndex:0];
+    [self creatButtonWithNormalName:@"我的用户详情_03.png" andSelectName:@"会话2_03.png" andTitle:nil andIndex:1];
+    [self creatButtonWithNormalName:@"动态_03.png" andSelectName:@"动态2_03.png" andTitle:nil andIndex:2];
+    [self creatButtonWithNormalName:@"我的_09.png" andSelectName:@"用户2_09.png" andTitle:nil andIndex:3];
     NTButton * button = _tabBarView.subviews[0];
     [self changeViewController:button];
     
@@ -105,10 +105,14 @@
     CGFloat buttonH = _tabBarView.frame.size.height;
     
     customButton.frame = CGRectMake(buttonW * index, 0, buttonW, buttonH);
-    [customButton setImage:[UIImage imageNamed:normal] forState:UIControlStateNormal];
+    
+    UIImage *imageNormal = [UIImage imageNamed:normal];
+    [customButton setImage:[imageNormal imageByScalingToSize:CGSizeMake(imageNormal.size.width/2, imageNormal.size.height/2)] forState:UIControlStateNormal];
     //[customButton setImage:[UIImage imageNamed:selected] forState:UIControlStateDisabled];
     //这里应该设置选中状态的图片。wsq
-    [customButton setImage:[UIImage imageNamed:selected] forState:UIControlStateSelected];
+    UIImage * imageSelected=[UIImage imageNamed:selected];
+    [customButton setImage:[imageSelected imageByScalingToSize:CGSizeMake(imageSelected.size.width/2, imageSelected.size.height/2)] forState:UIControlStateSelected];
+    
     [customButton setTitle:title forState:UIControlStateNormal];
     
     [customButton addTarget:self action:@selector(changeViewController:) forControlEvents:UIControlEventTouchDown];
