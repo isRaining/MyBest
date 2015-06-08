@@ -113,6 +113,7 @@
     UIImage * imageSelected=[UIImage imageNamed:selected];
     [customButton setImage:[imageSelected imageByScalingToSize:CGSizeMake(imageSelected.size.width/2, imageSelected.size.height/2)] forState:UIControlStateSelected];
     
+
     [customButton setTitle:title forState:UIControlStateNormal];
     
     [customButton addTarget:self action:@selector(changeViewController:) forControlEvents:UIControlEventTouchDown];
